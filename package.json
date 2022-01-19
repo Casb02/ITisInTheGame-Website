@@ -2,5 +2,10 @@
   "dependencies": {
     "bootstrap": "4.6.*",
     "laravel-mix": "^6.0.41"
+  },
+  "scripts": {
+    "dev": "mix dev",
+    "watch": "mix watch",
+    "prod": "mix prod"
   }
 }
